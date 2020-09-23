@@ -1,0 +1,1 @@
+A config template for starting a react project with integration of redux and a material-ui.
